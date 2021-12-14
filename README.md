@@ -6,6 +6,8 @@ Merhaba benim adım Uğur, 17 yaşındayım ve web geliştiricisi olarak siteler
 
 Skills:   JS / HTML / CSS / BOOTSTRAP
 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/javascript.svg' alt='javascript' height='40'>](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Javascript-shield.svg/1200px-Javascript-shield.svg.png)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/html5.svg' alt='html5' height='40'>](https://www.freeiconspng.com/thumbs/html5-icon/html5-icon-1.png)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/css3.svg' alt='css3' height='40'>](https://icon-library.com/images/css-icon-png/css-icon-png-0.jpg)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/bootstrap.svg' alt='bootstrap' height='40'>](https://icon-library.com/images/css-icon-png/css-icon-png-0.jpg)  
+
 
 
 
@@ -17,8 +19,6 @@ Skills:   JS / HTML / CSS / BOOTSTRAP
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=musaninsopasi)  
 
 
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/javascript.svg' alt='javascript' height='40'>](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Javascript-shield.svg/1200px-Javascript-shield.svg.png)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/html5.svg' alt='html5' height='40'>](https://www.freeiconspng.com/thumbs/html5-icon/html5-icon-1.png)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/css3.svg' alt='css3' height='40'>](https://icon-library.com/images/css-icon-png/css-icon-png-0.jpg)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/bootstrap.svg' alt='bootstrap' height='40'>](https://icon-library.com/images/css-icon-png/css-icon-png-0.jpg)  
 
 
 
