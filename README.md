@@ -2,11 +2,10 @@
 #### Front-end developer
 ![Front-end developer](https://pbs.twimg.com/profile_banners/1251514675684089858/1639507446/600x200)
 
-Merhaba benim adım Uğur, 17 yaşındayım ve web geliştiricisi olarak siteler yapıyorum. Ağırlıklı olarak front-end tarafında çalışıyorum. Kod yazmaya bayılırım
+Merhaba benim adım Uğur, 17 yaşındayım ve web geliştiricisi olarak siteler yapıyorum, ağırlıklı olarak front-end tarafında çalışıyorum. 
 
 Skills:   JS / HTML / CSS / BOOTSTRAP
 
-- 🔭 I’m currently working on this page. 
 
 
 
